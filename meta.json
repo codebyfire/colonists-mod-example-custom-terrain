@@ -1,6 +1,6 @@
 {
   "title": "Custom Terrains",
-  "description": "This mod demonstrates adding new terrain types.",
+  "description": "This mod demonstrates adding a new terrain type, blue clay, which is given a new terrain category.",
   "version": "0.1",
   "versionBundle": 1
 }
