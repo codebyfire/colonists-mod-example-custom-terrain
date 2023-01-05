@@ -1,0 +1,21 @@
+{
+  "terrainTypeColorsSpecs": [
+    {
+      "terrainId": 200,
+      "color": "3e5268"
+    }
+  ],
+  "terrainTypeDetailSpecs": [
+    {
+      "terrainId": 200,
+      "frequency": 0.4,
+      "detailIds": [
+        11,
+        90,
+        95,
+        200,
+        201
+      ]
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "seaLevel": 90,
+  "unitHeightLeewayNeeded": 10,
+  "maxAdjustFromCoreHeight": 20,
+  "maxNeighbourCornerAdjust": 5,
+  "maxPathSlope": 10,
+  "maxBuildingSlope": 30,
+  "maxTrackSlope": 16,
+  "maxRoamSlope": 20,
+  "maxSheepFieldSlope": 12,
+  "maxCowFieldSlope": 12,
+  "maxOrchardFieldSlope": 12,
+  "maxWheatFieldSlope": 12,
+  "gravityFactor": 0.16,
+  "snowGrowthTimeFactor": 2.0,
+  "defaultFogOfWarDistance": 16,
+  "terrains": [
+    {
+      "terrainId": 1,
+      "terrainCategory": 0
+    },
+    {
+      "terrainId": 3,
+      "terrainCategory": 0
+    },
+    {
+      "terrainId": 15,
+      "terrainCategory": 255
+    },
+    {
+      "terrainId": 10,
+      "terrainCategory": 1
+    },
+    {
+      "terrainId": 13,
+      "terrainCategory": 1
+    },
+    {
+      "terrainId": 14,
+      "terrainCategory": 1
+    },
+    {
+      "terrainId": 4,
+      "terrainCategory": 2
+    },
+    {
+      "terrainId": 11,
+      "terrainCategory": 2
+    },
+    {
+      "terrainId": 5,
+      "terrainCategory": 2
+    },
+    {
+      "terrainId": 200,
+      "terrainCategory": 200
+    }
+  ],
+  "biomeLayerDict": {
+    "Default": [
+      {
+        "terrain": 2,
+        "heightMark": 0,
+        "terrainTileBorderType": 0
+      },
+      {
+        "terrain": 1,
+        "heightMark": 4,
+        "terrainTileBorderType": 0
+      },
+      {
+        "terrain": 3,
+        "heightMark": 16,
+        "terrainTileBorderType": 0
+      },
+      {
+        "terrain": 4,
+        "heightMark": 23,
+        "terrainTileBorderType": 1
+      },
+      {
+        "terrain": 5,
+        "heightMark": 70,
+        "terrainTileBorderType": 1
+      }
+    ],
+    "Snow": [
+      {
+        "terrain": 1,
+        "heightMark": 0,
+        "terrainTileBorderType": 0
+      },
+      {
+        "terrain": 5,
+        "heightMark": 9,
+        "terrainTileBorderType": 1
+      },
+      {
+        "terrain": 4,
+        "heightMark": 23,
+        "terrainTileBorderType": 1
+      },
+      {
+        "terrain": 5,
+        "heightMark": 50,
+        "terrainTileBorderType": 1
+      }
+    ],
+    "Desert": [
+      {
+        "terrain": 2,
+        "heightMark": 0,
+        "terrainTileBorderType": 0
+      },
+      {
+        "terrain": 13,
+        "heightMark": 4,
+        "terrainTileBorderType": 1
+      },
+      {
+        "terrain": 3,
+        "heightMark": 13,
+        "terrainTileBorderType": 1
+      },
+      {
+        "terrain": 14,
+        "heightMark": 23,
+        "terrainTileBorderType": 1
+      }
+    ]
+  }
+}
