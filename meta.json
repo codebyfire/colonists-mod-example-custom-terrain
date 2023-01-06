@@ -1,6 +1,6 @@
 {
   "title": "Custom Terrains",
-  "description": "This mod demonstrates adding a new terrain type, blue clay, which is given a new terrain category.",
+  "description": "This mod demonstrates adding a new terrain type, blue clay, which is given a new terrain category. It also creates a new biome option available in random map generation.",
   "version": "0.1",
   "versionBundle": 1
 }
